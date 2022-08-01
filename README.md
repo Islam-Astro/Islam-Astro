@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Islam-Astro
+- 👋 Hi, I’m Islam Alaa
 - 👀 I’m interested in Astrophysics
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Scientific Research in High Energy Physics
